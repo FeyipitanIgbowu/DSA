@@ -14,8 +14,8 @@ public class List {
         return items.indexOf(item);
     }
 
-    public String getItemOnAnIndex(int index) {
-        return items.get(index);
+    public String getItemOnAnIndex(int input) {
+        return items.get(input);
     }
 
 
